@@ -603,9 +603,9 @@ aws s3 mb s3://YOUR-BUCKET-NAME --region ap-southeast-1
 ## 👨‍💻 Tác giả
 
 **Bach Quang Tung**
-- Email: ...
-- LinkedIn: ...
-- GitHub: ...
+- Email: bachquangtung162@gmail.com
+- LinkedIn: updating
+- GitHub: https://github.com/Sonca12/-E-Commerce-Customer-Analytics-Remarketing-Strategy/edit/main/README.md
 
 ---
 
